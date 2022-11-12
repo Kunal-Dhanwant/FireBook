@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "259705995515",
+    "project_id": "socialworldapp-26dc6",
+    "storage_bucket": "socialworldapp-26dc6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259705995515:android:bad2c8f14f47cd6d70305e",
+        "android_client_info": {
+          "package_name": "com.example.socialmediaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259705995515-dcpu31vicvt8olf5n57cg5g6in0j85nn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbijitqcIhmamtIVROON7fYl3235QdCjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259705995515-dcpu31vicvt8olf5n57cg5g6in0j85nn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
